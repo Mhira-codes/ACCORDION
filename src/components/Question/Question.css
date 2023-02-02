@@ -1,0 +1,33 @@
+header{
+    display: flex;
+
+    display: flex;
+   justify-content: space-between;
+   padding: 1rem;
+
+
+}
+article{
+    display: flex;
+    flex-direction: column;
+    /* box-shadow: 2px 2px 2px 1px rgb(235, 232, 232); */
+    box-shadow: 10px 10px 70px 10px rgb(243, 243, 241);
+    border-radius: 5px;
+
+width: 90%;
+margin: auto;
+
+
+ 
+}
+h4{
+    color: darkslateblue;
+    font-weight: 500;
+}
+p{
+    padding: 1rem;
+    color: darkslategrey;
+}
+.question-container{
+    margin-top: 1rem;
+}
